@@ -1,21 +1,3 @@
-# python
+## Python Standards
 
-## Running your code:
-
-In the Terminal type:
-
-```python src/main.py```
-
-## Creating a PDF:
-
-In the Terminal type:
-
-```make printAll```
-
-Look for the file **main.pdf** in the File Explorer.
-
-## Resources
-
-https://github.com/devcontainers/images/tree/main/src/python
-
-[Pytest](https://docs.pytest.org/en/stable/index.html) for unit testing, once we get to functions
+Generally, we follow Python’s [PEP-008: Style Guide for Python Code](https://peps.python.org/pep-0008/) and [PEP-257: Docstring Conventions](https://peps.python.org/pep-0257/).  Deviations and additions to PEP-008 and PEP-257 are outlined in this document.
